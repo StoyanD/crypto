@@ -1,0 +1,30 @@
+{
+  "name": "crypto_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoyanD/crypto.git"
+  },
+  "author": "Stoyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StoyanD/crypto/issues"
+  },
+  "homepage": "https://github.com/StoyanD/crypto#readme"
+}
